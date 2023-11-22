@@ -1,0 +1,26 @@
+.subheader {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.globe {
+    background-color: #ffffff;
+}
+
+
+.subheaderText {
+    color: #000000;
+}
+
+
+.list {
+    max-height: calc(100vh - 125px);
+    overflow-y: auto,
+}
+
+
+.avatar {
+    margin: 5px;
+}

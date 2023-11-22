@@ -1,0 +1,21 @@
+ball - ball, tall, maul
+bat - bat, cat, hat
+bed - bed, red, led
+book - book, look, cook
+boy - boy, toy, joy
+bus - bus, truck, car
+car - car, truck, bus
+cat - cat, hat, fat
+cow - cow, how, low
+dog - dog, fog, wolf
+elephant- elephant, cow, dog
+hat - hat, cat, mat
+ice cream - ice cream, sugar, cone
+mat - mat, hat, cat
+moon - moon, spoon, cocoon
+pan - pan, fan, pen
+pen - pen, hen, den
+sheep - sheep, keep, heap
+toys - toys, boys, fun
+tree - tree, free, three
+

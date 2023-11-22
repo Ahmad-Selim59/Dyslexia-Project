@@ -1,0 +1,57 @@
+.max_width {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    flex-wrap: wrap;
+}
+
+.username,
+.email,
+.password {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+    justify-content: space-between;
+}
+
+
+.username label,
+.email label,
+.password label {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.username .input,
+.email .input,
+.password .input {
+    width: 250px;
+    padding: 10px 5px;
+    border: none;
+    border-bottom: 2px solid #454545;
+    margin: 0 5px;
+}
+
+.submit {
+    padding: 12px 24px;
+    background-color: #006ba6;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    width: 250px;
+    margin: 10px 0;
+    cursor: pointer;
+    width: 100%;
+}
+
+.login {
+    color: #454545;
+    font-size: 15px;
+}
+
+.login a {
+    text-decoration: underline;
+}

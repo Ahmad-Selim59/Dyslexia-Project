@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 100px);
+    flex-direction: column;
+
+}
+
+.buttonContainers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonContainers a,
+.play_btn {
+    background: blue;
+    padding: 12px 24px;
+    border-radius: 5px;
+    color: #ffffff;
+    margin: 40px 20px;
+    width: 120px;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+.paper {
+    min-height: calc(100vh - 100px);
+    border-radius: 0;
+}
+
+.sidebar {
+    z-index: 8;
+}
+
+.subheader {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.globe {
+    background-color: #ffffff,
+}
+
+.subheaderText {
+    color: #000000;
+}
